@@ -4,4 +4,9 @@
       <server host="github.com" />
     </account>
   </component>
+  <component name="GithubSettings">
+    <option name="LOGIN" value="328566090@qq.com" />
+    <option name="AUTH_TYPE" value="BASIC" />
+    <option name="VALID_GIT_AUTH" value="false" />
+  </component>
 </application>
